@@ -1,4 +1,4 @@
-FROM debian:oldstable-20220125-slim
+FROM debian:oldstable-20260223-slim
 
 USER root
 
